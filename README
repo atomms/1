@@ -1,0 +1,8 @@
+new github repository github1
+git init github1
+touch README
+git init add & commit
+git remote add uri
+git push -o origin master
+eclipse file > new > java project > browse for github1
+done!
